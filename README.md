@@ -9,4 +9,4 @@ Template repository for creating a custom AgentKit registry.
 ## Related repos
 - Core: https://github.com/elclaudioabierto/agentkit
 - Official registry: https://github.com/elclaudioabierto/registry
-- Docs: https://github.com/elclaudioabierto/docs
+- Docs: https://elclaudioabierto.github.io/docs/
