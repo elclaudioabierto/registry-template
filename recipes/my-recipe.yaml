@@ -1,0 +1,10 @@
+id: my-recipe
+name: My Recipe
+description: Starter recipe definition
+aliases: []
+capabilities: []
+tags: [starter]
+steps:
+  - title: Add your first step
+    type: note
+    description: Replace this with install/run/copy/open/check actions

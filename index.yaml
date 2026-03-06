@@ -1,0 +1,12 @@
+version: "1"
+name: "My AgentKit Registry"
+description: "Replace with your registry description"
+recipes:
+  - id: my-recipe
+    path: recipes/my-recipe.yaml
+    name: My Recipe
+    description: Starter recipe
+    aliases: []
+    capabilities: []
+    tags: [starter]
+sources: []
